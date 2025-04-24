@@ -19,5 +19,6 @@
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack serve",
-    "lint": "eslint . --fix"}
+    "lint": "eslint . --fix"
+  }
 }
